@@ -20,3 +20,11 @@ Para este projeto vamos usar o Node.js e o NPM (Node Package Manager):
 - Node.js v20.13.0 LTS -> Long Term Suport
 
 NPX -> Node Package eXecutable (Executador de pacote Node)
+
+TO-DO (documentar):
+-Instalação e uso do Json Server: <https://github.com/typicode/json-server>
+-Criação do script "start" no package.json
+-Oberservações em relação ao uso do Json5 vs. Json: <https://github.com/json5/json>
+-Instalação das extensões para formatação de arquivo json
+-Chamada do script start com NPM ao invés do NPX
+-O que é Chocolatey (e porque não instalá-lo agora)
